@@ -8,5 +8,4 @@ More information can be found in this Steam guide.
 
 Afterwards the achievement should be unlockable once you finish the last mission.
 
-If for some reason the mod doesn't work, you may try to create it yourself according to the Steam guide linked above. 
-(since all the work of finding the bug was already done and described there, making the changes should be trivial)
+If for some reason the mod doesn't work, you may try to create it yourself according to the Steam guide linked above. Since all the work of finding the bug was already done and described there, making the changes yourself should be trivial.
