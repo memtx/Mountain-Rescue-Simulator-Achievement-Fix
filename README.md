@@ -1,6 +1,6 @@
 # Mountain-Rescue-Simulator-Achievement-Fix
 Very rough fix for the last achievement in the Mountain Rescue Simulator game on Steam.
-More information can be found in this Steam guide.
+More information can be found in [this](https://steamcommunity.com/sharedfiles/filedetails/?id=3488881620) Steam guide.
 
 # Installation
 1) Download the Assembly-CSharp.dll file
